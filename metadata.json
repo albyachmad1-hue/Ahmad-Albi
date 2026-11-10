@@ -1,0 +1,6 @@
+{
+  "name": "CVT Brake Assistant - Arduino MPU9250 & TPS Bypass",
+  "description": "Sistem Otomatis Engine Brake CVT Turunan dengan Arduino Nano, Sensor MPU9250 Complementary Filter, LCD 16x2, Relay TPS Bypass & Skema Wiring Lengkap",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
